@@ -3,7 +3,7 @@
   "name": "browser-game-combat-filament",
   "display_name": "Browser Game Combat Filament",
   "description": "Filament 5 resources for authorized combat operations.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\CombatFilament\\CombatFilamentServiceProvider",
   "requires": {
